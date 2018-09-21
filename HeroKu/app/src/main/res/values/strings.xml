@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HERO Ku</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_show_product_details">Product Deatils</string>
+    <string name="title_activity_category_tab_bar_action">CategoryTabBarAction</string>
+</resources>
